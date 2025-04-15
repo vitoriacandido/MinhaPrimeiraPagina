@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bUmG7qSZPo2p9nUTGecY/1Zlc6IPwGe9j8QRCJ2SSw0=",
+  "Source": "MinhaPrimeiraPagina",
+  "BasePath": "_content/MinhaPrimeiraPagina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinhaPrimeiraPagina\\wwwroot",
+      "Source": "MinhaPrimeiraPagina",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\z\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alunos\\Documents\\z\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\z\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
